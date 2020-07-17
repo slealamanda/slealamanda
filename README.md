@@ -1,5 +1,6 @@
-<div style="text-align: center">
+<p align="center">
 <img src="https://media.giphy.com/media/fAhzY3t1ECzLRJK2oO/giphy.gif">
+</p>
 
 # Welcome to my profile 
 I'm Amanda Leal, 23y, student of information systems and data science, making my way between accounts and technology 🤓👩🏻‍💻📈
@@ -12,4 +13,4 @@ I'm Amanda Leal, 23y, student of information systems and data science, making my
 
 
 come back whenever you want 🥰✨
-</div>
+
